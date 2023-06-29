@@ -92,3 +92,29 @@ body{
     justify-content: center;
     align-items: center;
 }
+@media (max-width:600px){
+    .top{
+        width:340px;
+        padding: 10px;
+    }
+    .mhead,.subhead{
+        font-size:25px;
+    }
+    .des{
+        font-size:16px;
+    }
+    .bottom{
+        flex-direction: column;
+    }
+    .crd{
+        width:300px;
+        height: 220px;
+    }
+    img{
+        width:50px;
+    }
+    .crdes{
+        font-size: 12px;
+        margin:5px 0 30px 0;
+    }
+}
