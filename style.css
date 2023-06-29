@@ -92,7 +92,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-@media (max-width:600px){
+@media (max-width:1150px){
     .top{
         width:340px;
         padding: 10px;
